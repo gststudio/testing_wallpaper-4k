@@ -1,0 +1,210 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "backup_ads_natives":"null",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More":
+  [
+    {
+      "id":1,
+      "title":"Block Blast - Puzzle Games",
+      "image":"https://play-lh.googleusercontent.com/R0qgNDYYHbRhw6JFsdEbDMqONplEvJx0m0W9wzYVvY3eNF1c2rfBWYjQxW0sLEzFe1E=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.block.juggle"
+    },
+    {
+      "id":2,
+      "title":"Crazy Dog",
+      "image":"https://play-lh.googleusercontent.com/LemONqmn7v5RUxyyTkJBNNVSz1RmPz__L3yOhz8hcINdYqhxVdMT1gE5ekxB3uALgRw=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.crazydog.android"
+    },
+    {
+      "id":3,
+      "title":"Stumble Guys",
+      "image":"https://play-lh.googleusercontent.com/Oci7f4WR0JShbn-n5hnwubbXaMssleb2b1Dv7AMOzFFcgstIdC9kg-E3LHx3em8RCaLf=w240-h480",
+      "link":"https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies"
+    }
+
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Wallpaper 1",
+      "image": "https://wallpapercave.com/wp/wp6627586.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Wallpaper 2",
+      "image": "https://wallpapers.com/images/hd/laughing-doraemon-cartoon-iphone-zkmd57liyrb0ul63.jpg"
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 1",
+      "image":"https://wallpapers.com/images/hd/laughing-doraemon-cartoon-iphone-zkmd57liyrb0ul63.jpg",
+      "lock":false
+    },
+    {
+      "id":2,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 2",
+      "image":"https://coolwallpapers.me/th700/6081702-rick-and-morty-cartoons-tv-shows-hd-morty-animated-tv-series-4k-5k.jpg",
+      "lock":true
+    },
+	{
+      "id":3,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 3",
+      "image":"https://cutewallpaper.org/27/cartoon-space-iphone-wallpaper/1288318803.jpg",
+      "lock":false
+    },
+    {
+      "id":4,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 4",
+      "image":"https://cutewallpaper.org/28x/wmr0mzzf5/359124891.jpg",
+      "lock":false
+    },
+	{
+      "id":5,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 5",
+      "image":"https://i.pinimg.com/originals/21/f9/87/21f987a040b65d04d38e625ddb5a7d33.jpg",
+      "lock":true
+    },
+    {
+      "id":6,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 6",
+      "image":"https://templatefor.net/wp-content/uploads/2018/07/5245616575-cute-cartoon-iPhone-Wallpapers.jpg",
+      "lock":false
+    },
+	{
+      "id":7,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 7",
+      "image":"https://i.pinimg.com/474x/68/27/2e/68272edcbe4ba390214ab0384e8edd5c.jpg",
+      "lock":false
+    },
+    {
+      "id":8,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 8",
+      "image":"https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77700122465.jpg",
+      "lock":true
+    },
+	{
+      "id":9,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 9",
+      "image":"https://i.pinimg.com/564x/90/1d/09/901d0910963778380408aec7257b540b--jom-phone-wallpapers.jpg",
+      "lock":false
+    },
+    {
+      "id":10,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 10",
+      "image":"https://wallpapers.com/images/hd/super-mario-cartoon-iphone-m96kea6peu8wzzta.jpg",
+      "lock":true
+    },
+	{
+      "id":11,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 11",
+      "image":"https://wallpapers.com/images/hd/cool-iphone-11-cartoon-face-rainbow-aesthetic-4u8o8wkxcnzhp951.jpg",
+      "lock":false
+    },
+    {
+      "id":12,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 12",
+      "image":"https://wallpapercave.com/wp/wp6343157.jpg",
+      "lock":false
+    },
+	{
+      "id":13,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 13",
+      "image":"https://wallpaper.dog/large/977317.jpg",
+      "lock":true
+    },
+    {
+      "id":14,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 14",
+      "image":"https://wallpapers-clan.com/wp-content/uploads/2023/08/sonic-the-hedgehog-cool-wallpaper.jpg",
+      "lock":false
+    },
+	{
+      "id":15,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 15",
+      "image":"https://i.pinimg.com/736x/5d/48/4f/5d484f52c4fc62baf1decd84c8afffd9.jpg",
+      "lock":true
+    },
+    {
+      "id":16,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 16",
+      "image":"https://w0.peakpx.com/wallpaper/787/582/HD-wallpaper-cartoon-space-themes.jpg",
+      "lock":false
+    },
+	{
+      "id":17,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 17",
+      "image":"https://wallpapers-clan.com/wp-content/uploads/2023/07/angry-robot-cartoon-wallpaper.jpg",
+      "lock":false
+    },
+    {
+      "id":18,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 18",
+      "image":"https://i.pinimg.com/originals/b3/1c/b5/b31cb5042350262e61c01e52805e8911.jpg",
+      "lock":true
+    },
+	{
+      "id":19,
+      "name_category": "Wallpaper 1",
+      "title":"Contoh Wallpaper 19",
+      "image":"https://i.pinimg.com/736x/2d/fb/84/2dfb84cc9f9ecaaf432f414c1632a41f.jpg",
+      "lock":false
+    },
+    {
+      "id":20,
+      "name_category": "Wallpaper 2",
+      "title":"Contoh Wallpaper 20",
+      "image":"https://i.pinimg.com/1200x/2a/1f/4e/2a1f4e56ed367db467fbf7b3259a1bc0.jpg",
+      "lock":false
+    }
+  ]
+}
